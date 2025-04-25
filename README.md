@@ -5,7 +5,7 @@ This project analyzes 120,000+ football match records to uncover player and team
    ---
    
 ## Dashboard Preview
-  ![Dashboard Preview](Football_Players_Performance_Dashboard.PNG)
+  ![Dashboard Preview](Football_players_performance_Dashboard.PNG)
 
 ## Project Highlights
 
@@ -16,7 +16,7 @@ This project analyzes 120,000+ football match records to uncover player and team
   - Match win/loss trends
   - Player rating trends
   - Position-wise performance comparison
-  - League and team analysis
+  - Season, League and team analysis
 
 ## Tools Used
 
@@ -26,15 +26,6 @@ This project analyzes 120,000+ football match records to uncover player and team
   - Slicers & Filters
   - Conditional Formatting
   - Data Visualization (bar, line, pie, radar charts)
-
-## Dataset Features
-
-- 120,000 rows of match data
-- Columns include:
-  - Player Name, Position, Team, Opponent
-  - Goals, Assists, Minutes Played, Ratings
-  - Match Result, Team Score, Yellow/Red Cards
-  - League, Season, Date
 
 ## Key Insights
 
